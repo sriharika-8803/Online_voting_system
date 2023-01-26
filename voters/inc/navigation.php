@@ -14,10 +14,10 @@
             <a class="nav-link text-white mr-3" href="index.php">Cast Your Vote</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link text-white mr-3" href="#">Poll</a>
+            <a class="nav-link text-white mr-3" href=".\inc\poll.php">Poll</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link text-white mr-3" href="#">Surveys</a>
+            <a class="nav-link text-white mr-3" href=".\inc\survey.php">Surveys</a>
         </li>
         <li class="nav-item">
             <a class="nav-link text-white mr-3" href="#">Events</a>
